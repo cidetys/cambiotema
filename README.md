@@ -1,13 +1,18 @@
 # Reto Front-End: Cambio de tema.
-La página web debe cambiar de tema claro a oscuro al dar click sobre un botón.
+La aplicación debe cambiar de tema claro a oscuro al dar click sobre un botón.
 
 Esta tarea es para demostrar su entendimiento en HTML, CSS y JavaScript tecnologías fundamentales
 para el desarrollo web.
 
+## Objetivos
+1. Preparar al practicante para prueba en entrevista de trabajo para desarrolladores.
+1. Desarrollar agilidad para adquirir conocimientos en diferentes tecnologias.
+1. Incrementar la capacidad de implementar código sin necesidad de recurrir al plagio.
+
 ## Instrucciones:
 1. Verificar si node.js esta instalado: `node -v`. En caso de no mostrar la versión. Debe instalar: [descargar aquí](https://nodejs.org/es/download/)
 
-2. npm install para instalar dependencias.
+2. `npm install` para instalar dependencias.
 
 3. Modificar los siguientes archivos según instrucciones abajo descritas:
     - index.html
